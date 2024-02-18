@@ -14,6 +14,7 @@ public class ForumJavaApplication extends SpringBootServletInitializer {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ForumJavaApplication.class, args);
+		System.out.println("git test");
 	}
 
 	@Override
